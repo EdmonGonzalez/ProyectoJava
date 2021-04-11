@@ -15,7 +15,8 @@ public class ProyectoJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.Out.PrintLn("hola Mundo!");
+      // System.Out.PrintLn("hola Mundo!");
+        System.out.println("Hola mundo, corregido desde NetBeans!");
     }
     
 }
